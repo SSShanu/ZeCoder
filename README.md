@@ -1,3 +1,8 @@
-# Zcoder
-A Summer project providing the collaborative environment for development and also listing resources for study material as well as from various other interesting sites.
-In coming future will also contain its self editor supporting all the languages where peeps can work collaboratively in most efficient ways.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
